@@ -6,11 +6,12 @@
   "name": "LocationBasedTime",
   "description": "This mod is a work in progress. It is supposed to be a real world to location to game time mod",
   "authors": [
-    "Nova"
+    "Nova",
+    "JoeZwet"
   ],
   "contact": {
-    "homepage": "",
-    "sources": ""
+    "sources": "https://github.com/Nova-472/LocationBasedTime",
+    "issues": "https://github.com/Nova-472/LocationBasedTime/issues"
   },
 
   "license": "CC0-1.0",
