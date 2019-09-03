@@ -3,9 +3,10 @@
   "package": "tech.teamio.lbt.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "LevelPropertiesMixin"
   ],
   "client": [
-    "ExampleMixin"
+
   ],
   "injectors": {
     "defaultRequire": 1
