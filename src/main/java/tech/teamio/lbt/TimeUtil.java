@@ -22,7 +22,7 @@ import java.util.Date;
 
 public class TimeUtil {
     public static long calTime() {
-        DateFormat hours = new SimpleDateFormat("hh");
+        DateFormat hours = new SimpleDateFormat("HH");
         DateFormat minutes = new SimpleDateFormat("mm");
         Date date = new Date();
         String hoursStr = hours.format(date);
